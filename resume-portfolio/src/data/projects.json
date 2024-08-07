@@ -1,0 +1,42 @@
+[
+  {
+    "title": "LLoyds Bank",
+    "imageSrc": "projects/lloyds.png",
+    "description": "This is the banking application of LLoyds bank.",
+    "skills": ["Swift", "SwiftUI", "XCTest", "React.js"],
+    "demo": "https://www.lloydsbank.com/online-banking/mobile-banking.html",
+    "source": null
+  },
+  {
+    "title": "British Gas",
+    "imageSrc": "projects/britishgas.png",
+    "description": "This is the energy consumption app.",
+    "skills": ["React Native", "JavaScript", "Redux", "RTL"],
+    "demo": "https://www.britishgas.co.uk/",
+    "source": null
+  },
+  {
+    "title": "Bangkok Bank",
+    "imageSrc": "projects/bangkok.png",
+    "description": "This is the Banking application.",
+    "skills": ["React Native, Swift", "API", "XCTest", "SwiftUI"],
+    "demo": "https://www.bangkokbank.com/",
+    "source": null
+  },
+  {
+    "title": "Bed Bath & Beyond",
+    "imageSrc": "projects/bedbath.png",
+    "description": "This is the ecommerce retail store.",
+    "skills": ["Swift", "API", "XCTest", "XCode"],
+    "demo": "https://www.bedbathandbeyond.com/",
+    "source": null
+  },
+  {
+    "title": "Taco Bell",
+    "imageSrc": "projects/tacobell.png",
+    "description": "This is the food customization and ordering app.",
+    "skills": ["Swift", "API", "XCTest", "XCode"],
+    "demo": "https://www.tacobell.co.uk/",
+    "source": null
+  }
+]

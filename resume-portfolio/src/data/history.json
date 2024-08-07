@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Sr. Software Engineer",
+    "organisation": "Stepstone group",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Mobile apps", "Worked on React apps"],
+    "imageSrc": "history/stepstone.png"
+  },
+  {
+    "role": "Lead Software Engineer",
+    "organisation": "Publicis Sapient",
+    "startDate": "April, 2017",
+    "endDate": "Sept, 2023",
+    "experiences": ["Worked on Mobile Apps", "Worked on React Apps"],
+    "imageSrc": "history/publicis.png"
+  },
+  {
+    "role": "Sr. Software Engineer",
+    "organisation": "Appster",
+    "startDate": "June, 2015",
+    "endDate": "March, 2017",
+    "experiences": [
+      "Worked on iOS applications",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/appster.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Net Solutions",
+    "startDate": "Feb, 2013",
+    "endDate": "May, 2015",
+    "experiences": [
+      "Worked on iOS applications",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netsolutions.png"
+  }
+]
